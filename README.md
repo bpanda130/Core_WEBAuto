@@ -35,10 +35,8 @@ Technologies Used:
   5. Maven Compiler Plugins
   6. Maven assembly Plugins
   7. Apache POI api
+  8. JUnit 4.x library
 
 Building Jar:
   - Maven Assembly plugin used to build required Jar file.
   Command : mvn clean package
-7. JUnit 4.x library
-
-Comp
