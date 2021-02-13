@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CorePOM_UI_Framework
+Bundle-SymbolicName: CorePOM_UI_Framework
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: CorePOM.UI.Framework
+Export-Package: com.qa.Component,
+ com.qa.Factory,
+ com.qa.Utility
